@@ -1,4 +1,4 @@
-setwd('C:/Users/ulsaaa/Dropbox/wp4_summer/CADDconference')
+setwd('where ever')
 
 #install.packages('QSARdata')
 library('QSARdata')
